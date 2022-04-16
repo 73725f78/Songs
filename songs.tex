@@ -1,0 +1,31 @@
+\documentclass{article}
+
+\usepackage{xcolor}
+\usepackage[utf8]{inputenc}
+\usepackage[top=2.5cm, left=3cm]{geometry}
+\usepackage{hyperref}
+\hypersetup{colorlinks=true, linkcolor=blue}
+
+\usepackage{guitar}
+\usepackage{guitarchordschemes}
+
+
+\title{Repertorio de canciones}
+\date{}
+\author{Mi Rondalla}
+
+
+\begin{document}
+\maketitle{}
+\tableofcontents
+
+
+%Paquete guitar
+\renewcommand\guitarPreAccord{\color{blue}\footnotesize\strut\bfseries}
+
+\include{resources/define_acordes.tex}
+\include{resources/una_vieja_cancion_de_amor.tex}
+\include{resources/creo_estar_sonyando.tex}
+
+\end{document}
+
