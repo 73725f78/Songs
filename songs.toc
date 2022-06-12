@@ -1,7 +1,0 @@
-\contentsline {section}{\numberline {1}Las mañanitas}{2}{section.1}%
-\contentsline {section}{\numberline {2}Una vieja canción de amor}{3}{section.2}%
-\contentsline {section}{\numberline {3}Creo estar soñando}{4}{section.3}%
-\contentsline {section}{\numberline {4}Tu forma de ser}{5}{section.4}%
-\contentsline {section}{\numberline {5}Fuentes de Ortiz}{6}{section.5}%
-\contentsline {section}{\numberline {6}Vamos a marte}{7}{section.6}%
-\contentsline {section}{\numberline {7}Circulos}{8}{section.7}%
